@@ -5,6 +5,8 @@ I implemented multiple `REST endpoints` for the client to communicate with the b
 Those endpoints were are all defined in a Swagger document given in YAML format.
 
 I tested my code in two different ways :
+
+
 • Architecture tests: 
   the architecture of the project follows a strict `layered architecure`, which is a is a staple of backend development.
 
