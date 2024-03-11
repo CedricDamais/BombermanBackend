@@ -4,6 +4,11 @@ The goal of this project was to create the backend of an online Bomberman game.
 I implemented multiple `REST endpoints` for the client to communicate with the backend.
 Those endpoints were are all defined in a Swagger document given in YAML format.
 
+During this project I used two different Frameworks:
+
+`• Quarkus`
+`• Hibernates`
+
 I tested my code in two different ways :
 
 
