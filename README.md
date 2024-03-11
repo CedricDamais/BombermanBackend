@@ -18,7 +18,7 @@ I tested my code in two different ways :
 • API tests: 
   I made sure The backend send proper responses to requests following the predefined `JSON format` in the swagger document.
   
-The following diagram is an example of the database that you can implement in this project.
+The following diagram is the database that I implemented in this project.
 
 
 ![Could not Load file!](DataBases.png "DataBase Diagram")
